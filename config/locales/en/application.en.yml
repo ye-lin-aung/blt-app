@@ -1,8 +1,8 @@
 en:
   application:
-    name: Untitled Application
+    name: BLT App
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: blt app seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: blt_app
